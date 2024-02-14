@@ -2,7 +2,7 @@
 Estrutura de dados PILHA, do tipo LIFO
 
 ## O que é uma pilha?
-Uma pilha é uma estrutura de dados que visa armazena-los empilhando um no outro, pense como uma pilha de louça, quando queremos lavar algo, pegamos o primeiro item (o do topo da pilha), logo, o último elemento a ser colocado na lista, é o primeiro a sair. Da mesma forma, fazemos com os dados presentes nessa estrutura de dados
+Uma pilha é uma estrutura de dados que visa armazena-los empilhando um no outro, pense como uma pilha de louça, quando queremos lavar algo, pegamos o primeiro item (o do topo da pilha), logo, o último elemento a ser colocado na pilha, é o primeiro a sair. Da mesma forma, fazemos com os dados presentes nessa estrutura de dados
 
 ## Exemplo do código
 O exemplo presente no código usa a estrutura em questão para armazenar uma lista de nomes e datas de nascimento, sem ordem, apenas os empilhando
